@@ -9,7 +9,7 @@
   Hey,There!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
   <h3>I'm Devansh</h3>
 🌱 I’m currently learning new stuffs<br>
-  📫 How to reach me: <a href="devanshkumaravi@gmail.com">devanshkumaravi@gmail.com</a>
+  📫 How to reach me:
 <div id="bye" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div><br>
