@@ -12,4 +12,4 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evans129&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="80"/>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="180"/>
