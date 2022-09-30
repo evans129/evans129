@@ -11,4 +11,4 @@
 </div><br>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evans129&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
