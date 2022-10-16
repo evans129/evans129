@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=evans129&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evans129&theme=radical&layout=compact&display=block width=100% height=auto  alt="2" ></td>
+<td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)</td>
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=evans129&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
