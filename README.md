@@ -32,3 +32,6 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Some Memes"/>
 </div>
     
+ [![Devansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=evans129&theme=xcode)](https://git.io/evans129)
+  
+    
