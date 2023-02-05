@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div><br>
 
-## 🌐 Socials:
+<!--## 🌐 Socials:-->
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-kumar-a51322213)-->
 
 <!--![LeetCode Stats](https://leetcard.jacoblin.cool/devansh129?theme=unicorn&font=Dancing%20Script)-->
