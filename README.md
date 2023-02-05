@@ -36,10 +36,10 @@
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=evans129&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
   </tr>
-</table>
+</table>-->
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evans129&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evans129&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
   
   <h2 align="center">Some Random Jokes 😁<h2>
 <div id="Jokes" align="center">
