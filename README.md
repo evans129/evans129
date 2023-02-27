@@ -18,7 +18,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-kumar-a51322213)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/devansh129?theme=unicorn&font=Dancing%20Script)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/devansh129?theme=unicorn&font=Dancing%20Script)](https://leetcode.com/devansh129/)
   
   
 [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=nameunknownbattlegrounds)](https://auth.geeksforgeeks.org/user/nameunknownbattlegrounds) 
