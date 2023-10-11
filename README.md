@@ -1,7 +1,8 @@
 [![@evans129's Holopin board](https://holopin.io/api/user/board?user=evans129)](https://holopin.io/@evans129)
+<div align="center">
+<a href="https://www.credly.com/org/microsoftgarage/badge/microsoft-global-hackathon-2023"><img src="https://images.credly.com/size/680x680/images/690dd7e4-e88a-4e4e-8681-f3b9d1119b2e/image.png" height="200px" width="200px"></a>
+</div>
 <h2 align="center">🏆 Github Profile Trophy</h2></a>
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=evans129&theme=onedark&title=MultiLanguage,Commits,PullRequest,Repositories,Stars"/>
 <div>
