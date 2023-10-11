@@ -1,5 +1,7 @@
 [![@evans129's Holopin board](https://holopin.io/api/user/board?user=evans129)](https://holopin.io/@evans129)
 <h2 align="center">🏆 Github Profile Trophy</h2></a>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=evans129&theme=onedark&title=MultiLanguage,Commits,PullRequest,Repositories,Stars"/>
 <div>
